@@ -6,3 +6,5 @@
 
 # Uruchomienie serwera #
 main.py
+
+
